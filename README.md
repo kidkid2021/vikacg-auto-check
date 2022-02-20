@@ -2,7 +2,7 @@
 
 基于GitHub Action的维咔VikACG自动签到
 
-## 使用说明
+## 使用说明。
 
 1、获取authorization
 
